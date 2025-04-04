@@ -33,7 +33,7 @@ An interactive web platform for mastering IT security concepts, from beginner to
 
 1. Clone the repository
 ```bash
-git clone [https://github.com/DaaanielTV/it-security-learning-platform]
+git clone https://github.com/DaaanielTV/it-security-learning-platform
 ```
 
 2. Install dependencies
